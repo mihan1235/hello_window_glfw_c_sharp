@@ -1,0 +1,9 @@
+﻿  Building Custom Rule D:/Projects/glad/CMakeLists.txt
+  CMake does not need to re-run because D:/Projects/_build_glad/CMakeFiles/generate.stamp is up-to-date.
+  Generating GLAD
+  [11/16/2017 13:17:45][INFO	][glad   	]: getting 'gl' specification from SVN
+  [11/16/2017 13:17:45][INFO	][glad.opener	]: opening: 'https://raw.githubusercontent.com/KhronosGroup/OpenGL-Registry/master/xml/gl.xml'
+  [11/16/2017 13:17:47][INFO	][glad   	]: generating 'gl' bindings
+  [11/16/2017 13:17:47][INFO	][glad   	]: generating 'gl' bindings - done
+  glad.c
+  glad.vcxproj -> C:\Users\mihan\source\repos\hello_window\\_build\Debug\glad.dll

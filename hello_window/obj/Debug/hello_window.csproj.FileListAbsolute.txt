@@ -1,0 +1,7 @@
+C:\Users\mihan\source\repos\hello_window\hello_window\obj\Debug\hello_window.csproj.CoreCompileInputs.cache
+C:\Users\mihan\source\repos\hello_window\_build\Debug\hello_window.exe.config
+C:\Users\mihan\source\repos\hello_window\_build\Debug\hello_window.exe
+C:\Users\mihan\source\repos\hello_window\_build\Debug\hello_window.pdb
+C:\Users\mihan\source\repos\hello_window\hello_window\obj\Debug\hello_window.csprojResolveAssemblyReference.cache
+C:\Users\mihan\source\repos\hello_window\hello_window\obj\Debug\hello_window.exe
+C:\Users\mihan\source\repos\hello_window\hello_window\obj\Debug\hello_window.pdb
